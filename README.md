@@ -26,7 +26,7 @@ Dentro desta instânca você pode criar ou pegar elementos HTML dentro do parên
 
 <ul>
   
-<li>$('# div1') ou $('div') (É como se você estivesse usando o document.querySelector("# id"))</li>
+<li>$('div')</li>
 <li>$('window')</li>
 <li>$(variaveis)</li>
   
