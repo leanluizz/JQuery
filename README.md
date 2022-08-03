@@ -25,9 +25,11 @@ $()
 Dentro desta instânca você pode criar ou pegar elementos HTML dentro do parênteses como por exemplo:
 
 <ul>
+  
 <li>$('#div1') ou $('div') (É como se você estivesse usando o document.querySelector("#id"))</li>
 <li>$('window')</li>
 <li>$(variaveis)</li>
+  
 </ul>
 
 Enfim, acho que você entendeu como usar o plugin certo?
